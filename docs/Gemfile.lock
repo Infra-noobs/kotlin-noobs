@@ -248,8 +248,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  github-pages (~> 203)
-  jekyll (~> 3.8.5)
+  github-pages
   jekyll-feed (~> 0.12)
   minima (~> 2.5)
   texture
