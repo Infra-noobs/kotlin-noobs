@@ -20,7 +20,7 @@
 
 show_excerpts: true
 title: 코틀린을 공부하자
-email: your-email@example.com
+email: nobody@example.com
 description: 먹고 살아야지...
 baseurl: "/kotlin-noobs" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
